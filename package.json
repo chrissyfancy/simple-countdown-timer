@@ -2,6 +2,7 @@
   "name": "simple-countdown-timer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://simple-countdown-timer.herokuapp.com/",
   "dependencies": {
     "jest-cli": "^21.2.1",
     "react": "^16.0.0",
